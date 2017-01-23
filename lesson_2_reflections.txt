@@ -5,3 +5,7 @@ we creat an empty file called .git an it is hidden,we need to do this to track o
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it makes the thing easer 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by logcly commiting hhahaha
